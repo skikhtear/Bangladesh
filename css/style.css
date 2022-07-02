@@ -1,0 +1,38 @@
+
+h1{
+    color: blueviolet;
+    margin: 30px;
+    font-size: 40px;
+}
+#img{
+    width: 1080px;
+    height: 750pxpx;
+    margin: 30px;
+}
+.header2{
+    color: #e316b6;
+}
+#bd{
+    margin: 30px;
+    border: 10px solid #e316b6;
+    border-radius: 5px;
+    padding: 15px;
+    text-align: justify;
+}
+#orderlist{
+    margin: 30px;
+    background-color: rgb(250, 175, 187);
+    color: indigo;
+    font-size: 24px;
+    border: 15px solid #e73b3b;
+    border-radius: 8px;
+
+}
+#unorderlist{
+    margin: 30px;
+    background-color: aqua;
+    color: blueviolet;
+    font-size: 24px;
+    border: 15px solid violet;
+    border-radius: 8px;
+}
